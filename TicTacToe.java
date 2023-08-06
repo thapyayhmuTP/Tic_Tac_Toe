@@ -1,8 +1,13 @@
-package Java_Games;
+package Tic_Tac_Toe;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 import javax.swing.*;
+
+/**
+ *
+ * @author tph
+ */
 
 public class TicTacToe extends JPanel{
     
